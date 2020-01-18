@@ -1,0 +1,26 @@
+{
+  "name": "shri-2020-task-1-stub",
+  "version": "1.0.0",
+  "description": "Project stub for BEMJSON render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "9.7.3",
+    "bem-xjst": "^8.9.6",
+    "express": "^4.17.1",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "8.0.0",
+    "postcss": "^7.0.26",
+    "postcss-import": "^12.0.1"
+  },
+  "devDependencies": {
+    "gulp-sourcemaps": "^2.6.5",
+    "postcss": "^7.0.26",
+    "postcss-simple-vars": "^5.0.2",
+    "postcss-nested": "latest"
+  }
+}
